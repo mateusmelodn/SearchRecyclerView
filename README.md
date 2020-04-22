@@ -1,1 +1,3 @@
 "# SearchRecyclerView" 
+
+![](demo.gif)
